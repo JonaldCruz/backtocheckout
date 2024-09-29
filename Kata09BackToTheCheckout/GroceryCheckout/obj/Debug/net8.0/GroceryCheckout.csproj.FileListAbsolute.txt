@@ -1,0 +1,14 @@
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/bin/Debug/net8.0/GroceryCheckout
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/bin/Debug/net8.0/GroceryCheckout.deps.json
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/bin/Debug/net8.0/GroceryCheckout.runtimeconfig.json
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/bin/Debug/net8.0/GroceryCheckout.dll
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/bin/Debug/net8.0/GroceryCheckout.pdb
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.AssemblyInfoInputs.cache
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.AssemblyInfo.cs
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.csproj.CoreCompileInputs.cache
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.dll
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/refint/GroceryCheckout.dll
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.pdb
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/GroceryCheckout.genruntimeconfig.cache
+/Users/jonaldcruz/Documents/Rider/Kata09BackToTheCheckout/GroceryCheckout/obj/Debug/net8.0/ref/GroceryCheckout.dll
